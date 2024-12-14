@@ -1,0 +1,44 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.chessboard {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.chess {
+    height: 800px;
+    width: 800px;
+    margin: auto;
+}
+
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: #BF5E36;
+    border: 1px solid black;
+    float: left;
+}
+
+.white img {
+    margin: 15px 15px;
+}
+
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: #ebcf9b;
+    border: 1px solid black;
+    float: left;
+}
+
+.black img {
+    margin: 15px 15px;
+}
