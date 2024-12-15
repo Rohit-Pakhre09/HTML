@@ -9,7 +9,3 @@
 <h1> Domino's Webpage </h1>
 
 <a href="https://the-dominos.netlify.app/"> <img src="https://github.com/Rohit-Pakhre09/HTML-Projects/blob/0c0d796225ff69607d95658332e83153c84c2e1b/Domino's.png"> </a>
-
-<h1> Chess Board </h1>
-
-<a href="https://the-chess-board.netlify.app/"> <img src="https://github.com/Rohit-Pakhre09/HTML-Projects/blob/21b89355be513f1d2273d8a23344a5378dcaa6d8/Chess%20Board.png"> </a>
