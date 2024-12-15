@@ -1,6 +1,6 @@
 <h1> Travel Project </h1>
 
-<a href="https://the-travels.netlify.app/"> <img src="https://github.com/Rohit-Pakhre09/HTML-Projects/blob/b09a96318e949cbca43ccccfa00dcc0dad2c2e20/Travel.png"> </a>
+<a href="https://the-travels.netlify.app/"> <img src="https://github.com/Rohit-Pakhre09/HTML-Projects/blob/7b05dc942077c60a2db7f0e419a5d8b68de12553/Travels.png"> </a>
 
 <h1> Only Table Wireframe </h1>
 
