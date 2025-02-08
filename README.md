@@ -8,7 +8,7 @@
 
 <h1> Wireframe </h1>
 
-<img src=""> 
+<img src="https://github.com/Rohit-Pakhre09/HTML-Projects/blob/9cfa8acec932fdcafb10c28a03d6858aa47b1b36/Wireframe/Wireframe.png"> 
 
 <h1> Only Table Wireframe </h1>
 
