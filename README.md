@@ -1,3 +1,7 @@
+<h1> Ratan Tata Blog </h1>
+
+<img src="https://github.com/Rohit-Pakhre09/HTML-Projects/blob/243b0c42516ebe83ae9851e2d1124fe14fb4f7b7/Ratan%20Tata%20Blog.png">
+
 <h1> Travel Project </h1>
 
 <a href="https://the-travels.netlify.app/"> <img src="https://github.com/Rohit-Pakhre09/HTML-Projects/blob/7b05dc942077c60a2db7f0e419a5d8b68de12553/Travels.png"> </a>
